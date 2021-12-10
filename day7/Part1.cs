@@ -2,7 +2,7 @@
 using System.IO;
 using System.Linq;
 
-namespace AOC2021_Day6
+namespace AOC2021_Day7
 {
     public static class Part1
     {
